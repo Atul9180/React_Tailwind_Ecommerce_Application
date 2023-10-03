@@ -8,4 +8,4 @@ const CartCountBadge:React.FC<propsType> = ({size}) => {
   )
 }
 
-export default CartCountBadge
+export default CartCountBadge;
